@@ -1,0 +1,29 @@
+{
+  "name": "ngx-shift-jis",
+  "version": "1.0.4",
+  "description": "This library is built for the purpose of loading files in 'shift jis' format.",
+  "keywords": [
+    "ngx",
+    "angular2",
+    "shift-jis",
+    "ngx-shift-jis",
+    "encoding-japanese"
+  ],
+  "author": "DaiDH <duonghuudai.id002@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/id1945/ngx-shift-jis.git"
+  },
+  "peerDependencies": {
+    "@angular/common": "^12.0.5",
+    "@angular/core": "^12.0.5"
+  },
+  "dependencies": {
+    "encoding-japanese": "^1.0.30",
+    "tslib": "^2.1.0"
+  },
+  "devDependencies": {
+    "@types/encoding-japanese": "^1.0.18"
+  }
+}
