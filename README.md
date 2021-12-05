@@ -20,6 +20,7 @@ import { NgxShiftJisModule } from 'ngx-shift-jis';
     imports: [
         NgxShiftJisModule,
     ]
+
 })
 ```
 
@@ -56,13 +57,13 @@ export class AppComponent {
 
 ## Support versions
 
-|   Versions  | Ngx-shift-jis |
-| ----------- | ------------- |
-| Angular 12  |     1.0.6     |
-| Angular 11  |     1.0.6     |
-| Angular 10  |     1.0.6     |
-| Angular 9   |     1.0.6     |
-| Angular 8   |     1.0.6     |
+|   Versions    | Ngx-shift-jis |
+| ------------- | ------------- |
+| Angular 12    |       -       |
+| Angular 11    |       -       |
+| Angular 10    |       -       |
+| Angular 9     |       -       |
+| Angular 8     |     1.0.7     |
 
 \
 Author: `DaiDH`, Tel: `0845882882`

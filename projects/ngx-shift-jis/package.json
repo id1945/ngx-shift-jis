@@ -1,6 +1,6 @@
 {
   "name": "ngx-shift-jis",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "This library is built for the purpose of loading files in 'shift jis' format.",
   "keywords": [
     "ngx",
