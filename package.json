@@ -1,6 +1,26 @@
 {
   "name": "ngx-shift-jis",
-  "version": "0.0.0",
+  "version": "1.0.5",
+  "description": "This library is built for the purpose of loading files in 'shift jis' format.",
+  "keywords": [
+    "ngx",
+    "angular2",
+    "shift-jis",
+    "ngx-shift-jis",
+    "encoding-japanese",
+    "string encoding",
+    "Encoding Japanese",
+    "Shift JIS Kanji Code",
+    "Shift-JIS character encoding",
+    "Japanese Shift-JIS Character",
+    "Convert Shift JIS characters"
+  ],
+  "author": "DaiDH <duonghuudai.id002@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/id1945/ngx-shift-jis.git"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -24,6 +44,8 @@
     "zone.js": "~0.9.1"
   },
   "devDependencies": {
+    "@angular-devkit/build-angular": "~0.803.29",
+    "@angular-devkit/build-ng-packagr": "~0.803.29",
     "@angular/cli": "~8.3.29",
     "@angular/compiler-cli": "~8.2.14",
     "@angular/language-service": "~8.2.14",
@@ -38,8 +60,10 @@
     "karma-coverage-istanbul-reporter": "~2.0.1",
     "karma-jasmine": "~2.0.1",
     "karma-jasmine-html-reporter": "^1.4.0",
+    "ng-packagr": "^5.4.0",
     "protractor": "~7.0.0",
     "ts-node": "~7.0.0",
+    "tsickle": "^0.37.0",
     "tslint": "~5.15.0",
     "typescript": "~3.5.3"
   }

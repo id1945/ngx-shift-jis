@@ -17,7 +17,15 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "ngx-shift-jis": [
+        "dist/ngx-shift-jis"
+      ],
+      "ngx-shift-jis/*": [
+        "dist/ngx-shift-jis/*"
+      ]
+    }
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,
