@@ -17,12 +17,9 @@ Add wanted package to NgModule imports:
 import { NgxShiftJisModule } from 'ngx-shift-jis';
 
 @NgModule({
-    ...
     imports: [
-        ...,
         NgxShiftJisModule,
     ]
-  ...
 })
 ```
 
@@ -56,6 +53,16 @@ export class AppComponent {
 | word          |
 | excel         |
 | powerpoint    |
+
+## Support versions
+
+|   Versions  | Ngx-shift-jis |
+| ----------- | ------------- |
+| Angular 12  |     1.0.6     |
+| Angular 11  |     1.0.6     |
+| Angular 10  |     1.0.6     |
+| Angular 9   |     1.0.6     |
+| Angular 8   |     1.0.6     |
 
 \
 Author: `DaiDH`, Tel: `0845882882`
